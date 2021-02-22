@@ -1,6 +1,5 @@
-# React 博客
+# React 博客搭建
 
-博客主仓库
 ## blog
 
 博客主页 next 服务端渲染
@@ -23,10 +22,9 @@
 技术栈：
 
 - node 
-
 - express （基于 node 的Web 开发框架）
 - mysql.js （基于node 的 mysql 操作库）
-- 
+- log4j 日志管理
 
 ## admin
 
@@ -34,4 +32,8 @@
 
 react+antd
 
+技术栈：
 
+- react（使用最新hooks）
+- antd（基于react 的组件库）
+- typescript（js 超集，提供类型系统，利于代码编辑和项目维护）
